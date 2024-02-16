@@ -3,9 +3,9 @@
   <info>
     <title>Association for Computing Machinery</title>
     <title-short>ACM</title-short>
-    <id>http://www.zotero.org/styles/association-for-computing-machinery</id>
-    <link href="http://www.zotero.org/styles/association-for-computing-machinery" rel="self"/>
-    <link href="http://www.zotero.org/styles/acm-sigchi-proceedings" rel="template"/>
+    <id>https://cdn.githubraw.com/ReadyResearchers-2023-24/thesis-resources-cdn/main/cdn/association-for-computing-machinery</id>
+    <link href="https://cdn.githubraw.com/ReadyResearchers-2023-24/thesis-resources-cdn/main/cdn/association-for-computing-machinery.csl" rel="self"/>
+    <link href="https://cdn.githubraw.com/ReadyResearchers-2023-24/thesis-resources-cdn/main/cdn/acm-sigchi-proceedings.csl" rel="template"/>
     <link href="https://www.acm.org/publications/authors/reference-formatting" rel="documentation"/>
     <author>
       <name>Patrick O'Brien</name>
