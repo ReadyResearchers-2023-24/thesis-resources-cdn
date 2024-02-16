@@ -4,9 +4,9 @@
   <info>
     <title>Journal of the ACM</title>
     <title-short>JACM</title-short>
-    <id>http://www.zotero.org/styles/journal-of-the-acm</id>
-    <link href="http://www.zotero.org/styles/journal-of-the-acm" rel="self"/>
-    <link href="http://www.zotero.org/styles/association-for-computing-machinery" rel="independent-parent"/>
+    <id>https://cdn.githubraw.com/ReadyResearchers-2023-24/thesis-resources-cdn/main/cdn/journal-of-the-acm.csl</id>
+    <link href="https://cdn.githubraw.com/ReadyResearchers-2023-24/thesis-resources-cdn/main/cdn/journal-of-the-acm.csl" rel="self"/>
+    <link href="https://cdn.githubraw.com/ReadyResearchers-2023-24/thesis-resources-cdn/main/cdn/association-for-computing-machinery.csl" rel="independent-parent"/>
     <link href="https://www.acm.org/publications/authors/reference-formatting" rel="documentation"/>
     <category citation-format="numeric"/>
     <category field="engineering"/>
